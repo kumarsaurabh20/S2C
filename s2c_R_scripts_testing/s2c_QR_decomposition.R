@@ -1,3 +1,5 @@
+#original R functions for linear and multivariate regression. These functions are based on linear algebra QR decomposition 
+
 data.qr.decomposition <- function(file) {
 
 file <- as.character(file)  
